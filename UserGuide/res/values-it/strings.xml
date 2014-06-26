@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ExplayProjectViewActivity!</string>
+    <string name="app_name">Guida Rapida</string>
+    <string name="base_name">Display</string>
+    <string name="lockscreen_name">Sicurezza</string>
+    <string name="starter_name">Funzioni</string>   
+    <string name="notification_name">Notifiche</string>    
+    <string name="application_name">Applicazioni</string>    
+    <string name="phonebook_name">Chiamate</string>    
+    <string name="detail_name">Dettagli</string>   
+    <string name="unread_name">Ancora da leggere</string>    
+    <string name="read_name">Letti</string>
+    <string name="show_title_name">Come fare per</string>
+    
+    <string name="base_produce_name1">Tocca il display con le dita in qualsiasi punto e scopri tutte le funzionalità.</string>    
+    <string name="base_produce_name2">Tocca e tieni premuto un\'icona per accedere al menu o spostarla sul display.</string>   
+    <string name="base_produce_name3">Tocca l’applicazione sullo schermo per cominciare ad esplorare  Android.</string>    
+    <string name="base_produce_name4">Letto</string>  
+    
+    <string name="lock_produce_name1">Quando lo schermo è bloccato, tocca l’immagine al centro e muovi verso destra il dito per sbloccarlo.</string>    
+    <string name="lock_produce_name2">Quando lo schermo è bloccato, trascina verso destra l’icona della fotocamera per accedere direttamente all’applicazione delle foto.</string>   
+    <string name="lock_produce_name3">Quando lo schermo è bloccato, trascina verso l’alto l’icona del telefono per accedere direttamente alla composizione dei numeri telefonici.</string>    
+    <string name="lock_produce_name4">Quando lo schermo è bloccato, trascina verso sinistra l’icona dei messaggi per accedere direttamente all’invio di un sms.</string>
+    <string name="lock_produce_name5">Se non ti piace la modalità di sblocco del telefono, puoi sceglierne un altro andando nelle impostazioni.</string>     
+    
+    <string name="start_produce_name1">Nella schermata principale, premi a lungo un’applicazione e subito dopo spostala verso l’alto per rimuoverla.</string>    
+    <string name="start_produce_name2">Nella schermata widget, premi a lungo un widget per aggiungerlo alla schermata principale.</string>   
+    <string name="start_produce_name3">Nella schermata principale, premi a lungo per modificare o eliminare un widget.</string>    
+    <string name="start_produce_name4">Nella schermata principale, premi su un widget per modificare e salvare le impostazione.</string>    
+    <string name="start_produce_name5">Tieni premuto a lungo lo schermo per impostare un wallpaper o le tue foto come sfondo.</string>    
+    <string name="start_produce_name6">Nella schermata principale puoi far scorrere a destra o sinistra il display per andare alle applicazioni desiderate.</string>   
+    
+    <string name="notifition_produce_name1">Se vuoi connettere il tuo smartphone al PC devi aprire USB collegata e toccare Attiva archivio USB.</string>    
+    <string name="notifition_produce_name2">Puoi far scorrere verso il basso la barra di stato per visualizzare le notifiche.</string>   
+    <string name="notifition_produce_name3">Premi qui per aprire o chiudere velocemente le funzioni elencate.</string>    
+    <string name="notifition_produce_name4">Se non ti piace la rotazione automatica del display, puoi disattivarla dalle impostazioni.</string>    
+    <string name="notifition_produce_name5">Se la suoneria è troppo alta o troppo bassa puoi regolarla da qui.</string>    
+    <string name="notifition_produce_name6">Puoi attivare o disattivare le notifiche dalle impostazioni.</string> 
+    
+    <string name="applicatin_produce_name1">Nella schermata principale puoi accedere subito ad una specifica funzione attraverso il menu opzioni.</string>    
+    <string name="applicatin_produce_name2">Nella schermata principale, premi a lungo il tasto home per vedere  le applicazioni aperte.</string>   
+    <string name="applicatin_produce_name3">Tocca App per vedere tutte le tue applicazioni.</string>    
+    <string name="applicatin_produce_name4">Tocca widget per vedere tutti i widget.</string>     
+    
+    <string name="call_produce_name1">Componi un numero di telefono e premi l\'icona per inoltrare una chiamata.</string>    
+    <string name="call_produce_name2">Tocca questa icona per accedere al tastierino numerico.</string>   
+    <string name="call_produce_name3">Quando ricevi una chiamata tocca l\'icona al centro .</string>    
+    <string name="call_produce_name4">Puoi scegliere di rispondere alla chiamata, rifiutarla o mandare un sms. </string>    
+    <string name="call_produce_name5">Se inserisci un numero di telefono che è nella tua rubrica verrà visualizzato il contatto.</string>    
+    <string name="call_produce_name6">Nella rubrica puoi premere direttamente il numero per inoltrare la chiamata.</string>                 
+</resources>

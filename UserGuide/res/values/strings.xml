@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welcome to UserGuide App!</string>
+    <string name="app_name">UserGuide</string>
+    <string name="base_name">Basic Operation</string>
+    <string name="lockscreen_name">Lock screen</string>
+    <string name="starter_name">Starter</string>   
+    <string name="notification_name">Notification</string>    
+    <string name="application_name">Application</string>    
+    <string name="phonebook_name">Converse</string>    
+    <string name="detail_name">Details</string>   
+    <string name="unread_name">Unread</string>    
+    <string name="read_name">Read</string>
+    <string name="show_title_name">Description</string>
+    
+    <string name="base_produce_name1">Touch screen and slide by your fingers easily.</string>    
+    <string name="base_produce_name2">Pop-up menus or other operatings will be shown when you long press it.</string>   
+    <string name="base_produce_name3">Now touch the application on the screen to open your android journey.</string>    
+    <string name="base_produce_name4">Read</string>  
+    
+    <string name="lock_produce_name1">When screen is locked,you can touch the middle image and move to unlock icon.</string>    
+    <string name="lock_produce_name2">Moving it to camera icon,you can open camera application directly.</string>   
+    <string name="lock_produce_name3">Moving it to phone icon,you can open dialer application directly.</string>    
+    <string name="lock_produce_name4">Moving it to message icon,you can open messsage application directly.</string>
+    <string name="lock_produce_name5">Otherwise, you may choose other lockscreen style in setting menu.</string>     
+    
+    <string name="start_produce_name1">In main screen, you can long press your application and move to upside to delete it.</string>    
+    <string name="start_produce_name2">In widget screen, you can long press widget and add it into the main screen.</string>   
+    <string name="start_produce_name3">In main screen, you can long press to adjust widget size or move to delete it.</string>    
+    <string name="start_produce_name4">In main screen, you can touch widget to operate directly.</string>    
+    <string name="start_produce_name5">You can change wallpapers by long pressing the screen.</string>    
+    <string name="start_produce_name6">In main screen,you can move screen to left or right side.</string>   
+    
+    <string name="notifition_produce_name1">Connect you phone to PC by USB line.</string>    
+    <string name="notifition_produce_name2">Dropping down status bar will show notifications.</string>   
+    <string name="notifition_produce_name3">Touch here to open or close functions directly.</string>    
+    <string name="notifition_produce_name4">Turn on or turn off screen auto-rotation in settings.</string>    
+    <string name="notifition_produce_name5">Change ringtones in profile settings.</string>    
+    <string name="notifition_produce_name6">Turn on or turn off notification sounds also.</string> 
+    
+    <string name="applicatin_produce_name1">Touch the menu key to find further operations.</string>    
+    <string name="applicatin_produce_name2">Long press home key to find recent applications.</string>   
+    <string name="applicatin_produce_name3">Touch application to open it.</string>    
+    <string name="applicatin_produce_name4">Also touch widget to choose your widget.</string>     
+    
+    <string name="call_produce_name1">Input your dialing number and touch the icon to call.</string>    
+    <string name="call_produce_name2">Hide dialing input keyboard by touching the icon .</string>   
+    <string name="call_produce_name3">Touch the icon in the middle to active operations.</string>    
+    <string name="call_produce_name4">Choose to answer or reject an incoming call.</string>    
+    <string name="call_produce_name5">Inputting dialer number will find matched numbers automatically.</string>    
+    <string name="call_produce_name6">Directly touch number to call in phonebook.</string>                 
+</resources>
